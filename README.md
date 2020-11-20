@@ -32,6 +32,7 @@ The internet is overflowing with data ripe for harvesting. The challenge is that
  ## Author
 Sami Friedrich, PhD candidate at Oregon Health and Science University
 - [LinkedIn](https://www.linkedin.com/in/sami-friedrich/)
+- [Twitter](https://twitter.com/SamiFriedrich)
  
 ## License
 This project is licensed under the MIT License.
